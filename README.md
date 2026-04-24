@@ -18,7 +18,6 @@ A modern e-commerce platform built with microservices architecture, featuring us
 - [API Documentation](#api-documentation)
 - [Screenshots](#screenshots)
 - [Testing](#testing)
-- [Contributing](#contributing)
 
 ## 🎯 Overview
 
