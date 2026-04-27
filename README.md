@@ -401,4 +401,4 @@ This project is licensed under the MIT License.
 
 **Oleg Zubr**
 
-- GitHub: [@OlegZubrr](https://github.com/SubochArtem)
+- GitHub: [@SubochArtem](https://github.com/SubochArtem)
